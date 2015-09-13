@@ -1,0 +1,31 @@
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\SmackdownEF6vsLinq2SQL.exe.config
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\SmackdownEF6vsLinq2SQL.exe
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\SmackdownEF6vsLinq2SQL.pdb
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.dll
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.xml
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\obj\Debug\SmackdownEF6vsLinq2SQL.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\obj\Debug\SmackdownEF6vsLinq2SQL.exe
+c:\users\frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\obj\Debug\SmackdownEF6vsLinq2SQL.pdb
+C:\Users\Frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\FluentNHibernate.dll
+C:\Users\Frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\Iesi.Collections.dll
+C:\Users\Frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\NHibernate.dll
+C:\Users\Frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\FluentNHibernate.xml
+C:\Users\Frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\Iesi.Collections.xml
+C:\Users\Frank\documents\visual studio 2013\Projects\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\NHibernate.xml
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\SmackdownEF6vsLinq2SQL.exe.config
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\obj\Debug\SmackdownEF6vsLinq2SQL.exe
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\obj\Debug\SmackdownEF6vsLinq2SQL.pdb
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\SmackdownEF6vsLinq2SQL.exe
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\SmackdownEF6vsLinq2SQL.pdb
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.dll
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\FluentNHibernate.dll
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\Iesi.Collections.dll
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\NHibernate.dll
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.xml
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\FluentNHibernate.xml
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\Iesi.Collections.xml
+E:\GitHub\SmackdownEF6vsLinq2SQL\SmackdownEF6vsLinq2SQL\bin\Debug\NHibernate.xml
